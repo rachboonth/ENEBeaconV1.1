@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="proximiiolibrary-2.4.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/io.proximi.proximiiolibrary/proximiiolibrary/2.4.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/io.proximi.proximiiolibrary/proximiiolibrary/2.4.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/AndroidSDK/.gradle/caches/modules-2/files-2.1/io.proximi.proximiiolibrary/proximiiolibrary/2.4.3/7773d7a96e3dea45fa7a41339eb12566a03d4708/proximiiolibrary-2.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

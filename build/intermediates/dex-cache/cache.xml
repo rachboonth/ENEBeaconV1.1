@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_15419540751e82cf8621bb8f8e3ab2954e37cfe6.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_fad70dbbb2f222ec4c9743547c4259df195d5f1f.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_f06a090d74aa38b30e807adc1cf161d702f38479.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_5ddc076ec0dcbe91113e031f85b2b4e8d424ccae.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_c8da0a285c555ad4ffc3007b440ed14b5f1550d6.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.scottyab\secure-preferences-lib\0.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e171feee9cd68762880f92502e3f900d58a378ff">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.scottyab-secure-preferences-lib-0.1.4_6a8922a914c4ab2f685a7feebcfbf2bdf1e9f0fa.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\io.proximi.proximiiolibrary\proximiiolibrary\2.4.3\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6b579d4749af11852086c0254407a163f1d4e372">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\io.proximi.proximiiolibrary-proximiiolibrary-2.4.3_7078ee80652b12f09fd8c4a5ba9da64f46d7d9cb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_b8dd5996352166a424de62269f83fe97c243998e.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_8e2d892b202fc3517a1d9dd286604993386dc830.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_6dd3af7fb50b32ae5612b06f7fdaa24097e55d36.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_078d52466c87b6bdd0d0623eb717cb31b7d5befe.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_3a0a3e11ac1c7ae2fc4a702ef76a2a9720999dca.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_2eaf6e5cdb149954905006a46f8258f7d39ba05a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_171e02951075ec11e48021c4dd5eba845bc633f1.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.scottyab\aes-crypto\0.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6189e96ce5fefaab0930a8bfa415595e982477ea">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.scottyab-aes-crypto-0.0.4_3e9e45b01b3be793c110ebe44c38a9b39e80e4ed.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\net.zetetic\android-database-sqlcipher\3.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="310bcc4b2dbdddf4b2200e84b32a05b00e5f7ba4">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\net.zetetic-android-database-sqlcipher-3.5.4_243634b5fa029491a155293a4b2363240aede1b1.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_18f1b057b7061317eb2693b461d2d2cf82738211.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_b3ac4e68a24e4553c05e3216d5b277e746e343a6.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bdf1ffd0f17b0a86c6a8a837cce8bc475d59ac76.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_d39790f4ec269e9d44b6c93bf8822299f88b8284.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.4.4_aefc2e28ceb0c9e81a547bc688794bf4573ebdf4.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.indooratlas.android\indooratlas-android-sdk\2.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d6ee190977023891cc25995256d6c8cca81f6b1">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.indooratlas.android-indooratlas-android-sdk-2.2.4_af5a158f8589bb1a6d228ac22ad7c19fdc34debc.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_5fd36b026af5e08923c0e0cac74c7531949ab3df.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_ffa0a1bd09b606f5168c052b31f7788d8d0dc0f4.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_f4404e92fc49e743d0cc7fc08896ed2bcca8856e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_ac047b62b7ab135bfbf246532ec1e7737fc95be0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_551cd7905a9efeb4835df5b024fa6219f0029263.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_113c37cfa687e8e1fc03458c103cb1ca3480ee62.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_8950b9cd4c0aa11fc880a720fd3a4e7071cdcf56.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.neovisionaries\nv-bluetooth\1.8\714e2e18d44612760a7796051b9e3c4a5f963902\nv-bluetooth-1.8.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="714e2e18d44612760a7796051b9e3c4a5f963902">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\nv-bluetooth-1.8_1727da2f23dd7014592a7c009f26cfee0b6fd2a3.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_392cb3c456411719acf76294639ca7eb54778939.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_158213767b97fdecff233fd24531870f7ca226eb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_c63baf7a0c826c284a587752d8c40366b938c580.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_93c4c62bddc63354c8e67e2d4cf41b070ebc97a5.jar" />
+    </item>
+    <item
+        jar="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\exploded-aar\com.estimote\sdk\0.10.8\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="640af651fe94032b8f34112aabd351df29d3e2df">
+        <dex dex="D:\KMUTT\AndroidProject\FinalProject4th\EstimoteTemplate(multiple)\app\build\intermediates\pre-dexed\debug\com.estimote-sdk-0.10.8_f02022bffe098d345b48c6bea4b55ce4b02ad4e9.jar" />
+    </item>
+
+</items>

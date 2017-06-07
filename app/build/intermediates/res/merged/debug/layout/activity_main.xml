@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/homeicon"
+/>
+
+    <TextView
+        android:id="@+id/numbers"
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        style="@style/CategoryStyle"
+        android:backgroundTint="@color/category_numbers"
+        android:background="@drawable/rounded_corner"
+        android:text="Estimote Calibration 1/3/5"
+        android:textAlignment="center"
+        android:onClick="openEstimote"
+        />
+
+    <TextView
+        android:id="@+id/family"
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        style="@style/CategoryStyle"
+        android:backgroundTint="@color/category_family"
+        android:background="@drawable/rounded_corner"
+        android:text="Estimote Calibration 2/4/6"
+        android:textAlignment="center"
+        android:onClick="openEstimoteV2"/>
+
+    <TextView
+        android:id="@+id/colors"
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        style="@style/CategoryStyle"
+        android:backgroundTint="@color/category_colors"
+        android:background="@drawable/rounded_corner"
+        android:text="Indoor Mapping Simulation"
+        android:textAlignment="center"
+        android:onClick="openProximi"/>
+
+    <TextView
+        android:id="@+id/setting"
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        style="@style/CategoryStyle"
+        android:backgroundTint="#0d4661"
+        android:background="@drawable/rounded_corner"
+        android:text="Beacon Hardware Settings"
+        android:textAlignment="center"
+        android:onClick="openBeaconSetting"/>
+    <!--
+            <TextView
+                android:id="@+id/phrases"
+                style="@style/CategoryStyle"
+                android:background="@color/category_phrases"
+                android:text="@string/category_phrases"
+                android:onClick="openPhraseList"/>
+        -->
+</LinearLayout>
